@@ -3,3 +3,6 @@ new test just test
 I have added a new line
 
 I have added a new branch main
+
+I have merge main into test1
+
